@@ -1,0 +1,27 @@
+a{color: #4B0082; font-size:20px; text-decoration: none }
+body { background-color:  white ;}
+main h1 {text-align:center;}
+header table {background: white ;text-align:center; font-size: 50px;  border-collapse: collapse; width: 100%}
+header a {font-size: 30px;}
+main img {margin: 30px; border:2px solid #fff;
+  background: url(img/tiger.png) no-repeat;
+  -moz-box-shadow: 10px 10px 5px #ccc;
+  -webkit-box-shadow: 10px 10px 5px #ccc;
+  box-shadow: 20px 20px 5px #F13232;
+  -moz-border-radius:25px;
+  -webkit-border-radius:25px;
+  border-radius:25px;}
+header tr {border: 3px solid  #4B0082; margin: 20px; padding: 30px }
+header td {border: 1px solid  #4B0082; margin: 20px; padding: 15px}
+header img {height:100px;}
+main h1 {color: #F13232; font-size: 50px;}
+table img {width: 250px;} 
+.join {width: 100%; }
+main p {font-size: 25px;}
+main h2 {text-align:center; text-shadow: 1px 1px 2px black, 0 0 1em red; color: white; font-size: 2em; }
+.INFO {color: #F17E24; text-align:center; border: 2px dotted #F17E24;}
+.time{color: #F17E24; text-align:center; border: 2px dotted #F17E24; font-size: 25px; padding: 20px; }
+table a {font-size: 30px;}
+footer p {font-size: 30px; text-align:center; color: #4B0082; }
+body footer {border: 2px solid #4B0082; margin: 30px;}
+footer a {font-size: 30px; text-align:center; color: #4B0082;}
