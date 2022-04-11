@@ -1,0 +1,86 @@
+<html>
+<head>
+<link rel = "stylesheet" href = "new 2.css">
+</head>
+ 
+    <body>
+        <header>
+		<img src="https://sun9-84.userapi.com/sun9-71/impf/c847120/v847120491/1c495d/Fz_Xxa3cP6k.jpg?size=650x878&quality=96&sign=ff11145e96161365fd3a4e211915471d&type=album"/> 
+           <table>
+       				<td><a href="#aboutus">О нас</a></td> <td><a href="#timetable">Режим работы</a></td> <td><a href="#unions">Объединения</a></td> <td><a href="https://vk.com/wall-26214836?own=1">Новости</a></td> <td><a href="https://vk.com/albums-26214836">Фотографии</a></td> 
+        </table>
+		
+		</header>
+        <main>
+            <h1>Череповецкий молодежный центр<br/><img src="https://sun9-84.userapi.com/sun9-47/impf/c851016/v851016326/178e41/kKfiZjz_iaU.jpg?size=2560x1707&quality=96&sign=4108a2dd3ed4865f45750f1726ac3e75&type=album" width="600px"/></h1>
+            <h2 id="aboutus">Что такое ЧМЦ?</h2>
+			<div class= "INFO">
+            <p>Молодежный ЦЕНТР — это место, где каждый может чувствовать себя как дома.</p>
+            <p>Здесь можно читать книгу, работать за ноутбуком, знакомиться с хорошими людьми, посещать мероприятия, заниматься творчеством, а также вступить в общественные организации города!</p>
+            <p>Для молодежи проходят различные встречи с экспертами, творческие вечера, показы фильмов, тренинги и многое другое.</p>
+			<p>Вход в центр БЕСПЛАТНЫЙ.</p>
+			<p>Для тех, кто хочет организовать у нас мероприятие, встречу, мастер-класс или что-то еще – предоставление помещения БЕСПЛАТНОЕ, просто напишите нам в сообщения группы о каком мероприятии идет речь.</p>
+            </div>
+			<h2 id="timetable">Режим работы</h2>
+            <table class= "time">
+                <tr class= "time">
+                    <td class= "time">Пн</td>
+                    <td class= "time">с 8:30 до 17:30</td>
+                </tr>
+                <tr class= "time">
+                    <td class= "time">Вт</td>
+                    <td class= "time">с 8:30 до 17:30</td>
+                </tr>
+                <tr class= "time">
+                    <td class= "time">Ср</td>
+                    <td class= "time">с 8:30 до 17:30</td>
+                </tr>
+				<tr class= "time">
+                    <td class= "time">Чт</td>
+                    <td class= "time">с 8:30 до 17:30</td>
+                </tr>
+				<tr class= "time">
+                    <td class= "time">Пт</td>
+                    <td class= "time">с 8:30 до 17:30</td>
+                </tr>
+				<tr class= "time">
+                    <td class= "time">Сб, Вс</td>
+                    <td class= "time">Выходной</td>
+                </tr>
+            </table>
+			<h2 id="unions">Объединения</h2>
+			<table class= "join">
+                <tr>
+                    <td><img src= "https://sun9-84.userapi.com/sun9-15/impf/B79P3h7kIc4QfyUrDfaio-fOIm_G6s3y7bMQ1A/pvQIGFrvudU.jpg?size=1080x1080&quality=95&sign=da3dad769bd258affd938db457622522&type=album"> </td>
+                    <td><img src= "https://sun9-44.userapi.com/impf/sSfazh8T3MrcHICpIMLEUT2zSiLw8_cVoVT4-w/rgLj1CjqrHQ.jpg?size=1280x1280&quality=96&sign=5dda7a64f1d08b67f3df86d6d04e15e3&type=album"></td>
+					<td><img src= "https://sun9-74.userapi.com/impf/c639517/v639517700/55f94/jvKpQQSt-zE.jpg?size=1280x854&quality=96&sign=e12f6c1a382f39bb8b01d014334a391f&type=album"></td>
+				<td><img src= "https://sun9-82.userapi.com/impf/7xAHzO_vvq4kHDx3YlaS3CdreInxaxP1o81Rcg/2GrcOUcEFuE.jpg?size=799x816&quality=96&sign=3c7d0d0ca19d673540e0c642888c710b&type=album"></td>
+                <td><img src= "https://sun9-38.userapi.com/impf/MlJ_zwg90JyPYF0OQAvHVZS7BSM2WfptMswTJA/kRVvGnVp-48.jpg?size=800x800&quality=96&sign=361a6383a7c81b7df35da9a467ea5290&type=album"></td>
+				</tr>
+                <tr>
+                    <td><a href="https://vk.com/un.armia"> Юнармия</td>
+                    <td><a href="https://vk.com/volonteryche">Добровольцы Череповца</td>
+					<td><a href="https://vk.com/lclubmuraveinik35">Лидерский клуб «Муравейник»</td>
+					<td><a href="https://vk.com/freerope_cherepovetc">Фрироуп Череповец</td>
+					<td><a href="https://vk.com/cherepovetszapobedu">Волонтеры Победы</td>
+                </tr>
+               
+            </table>
+			
+			
+			
+        </main>
+		<footer>
+            <p><b><i>Контакты</b></p>
+			
+			<p><a href="https://www.instagram.com/molodezh_center35/">Instagram</a></p>
+			<p>Почта: cdm_centr@cherepovetscity.ru</p>
+
+            <p>Адрес: г. Череповец, ул. Протоиерея Трубицина, 1</p>
+            <p>Телефон для справок: 8-(931)-517-16-01</p>
+			<p>Ждем Вас у нас!</p>
+        </footer>
+
+    </body>
+	</head>
+</html>
